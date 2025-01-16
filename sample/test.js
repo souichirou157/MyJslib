@@ -1,6 +1,11 @@
 
 import {TodoFormElement} from './common/textfieldEvent/TextFieldeElements.js';
-			
+/**
+ * To perform this operation, 
+ * the minimum requirement 
+ * is to have a local server installed.
+ * 
+ */
 const table = 	window.document.getElementById('todolist').childNodes;
 
 const element = new TodoFormElement(
