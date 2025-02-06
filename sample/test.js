@@ -1,6 +1,12 @@
 
 import {TodoFormElement} from './common/textfieldEvent/TextFieldeElements.js';
+<<<<<<< HEAD
 /** comment
+=======
+/**
+ * 
+ * ///////////////////////
+>>>>>>> 176132a7952a0b2d5e68bb681ad42fb222574e84
  * To perform this operation, 
  * the minimum requirement 
  * is to have a local server installed.
